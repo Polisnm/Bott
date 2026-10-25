@@ -1,11 +1,10 @@
 {
-  "name": "whatsapp-webhook",
+  "name": "bott-whatsapp-sheet",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
+  "scripts": { "start": "node index.js" },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "googleapis": "^128.0.0"
   }
 }
